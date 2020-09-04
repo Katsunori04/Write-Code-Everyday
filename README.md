@@ -1,6 +1,5 @@
 # Write-Code-Everyday
-毎日なんでもいいから書きたい・・・・
-
+練習用
 Atcoderとか
 
 https://atcoder.jp/?lang=ja
